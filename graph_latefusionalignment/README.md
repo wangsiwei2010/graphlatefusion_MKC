@@ -1,5 +1,5 @@
 # latefusionalignment
-Matlab implementation for IJCAI19:multi-view clustering with late fusion alignment maximization
+Matlab implementation for Late Fusion Multiple Kernel Clustering with Proxy Graph Refinement
 
 
 主执行文件为graphlateFusuingAlignmentDemo.m,示例数据集为ar10p（多核数据集。超过文件限制无法上传，可自行产生多核矩阵）.
