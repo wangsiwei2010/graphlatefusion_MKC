@@ -70,7 +70,6 @@ for i=11
     res(:,9) = [max(max(accval9)); max(max(nmival9));max(max(purval9))];
 
     save(['./results/',dataName,'.mat'],'accval9','nmival9','purval9','iter9');
-    %mailme(['Perormance of all GMVC_LFA ', dataName,' complete'],'complete');
 end
 
 
